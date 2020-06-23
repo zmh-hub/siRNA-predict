@@ -1,5 +1,5 @@
 # siRNA-predict with RNA secondary structure(SPRSS)
-Use machine learning to predict siRNA efficacy
+Use machine learning to predict siRNA efficacy(LightGBM).
 
 We uploaded our novel system on the web server and it can be accessed for free on the website: http://sbo-bio.com.cn/2007/.
 
